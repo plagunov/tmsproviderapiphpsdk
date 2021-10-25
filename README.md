@@ -4,7 +4,7 @@ The TMS provider api SDK provides PHP APIs to create and manage accounts, device
 ## Installation
 Install using composer:
 
-`composer require tvip/providerapiphpsdk`
+`composer require tvip/tmsproviderapiphpsdk`
 
 ## Usage:
 
