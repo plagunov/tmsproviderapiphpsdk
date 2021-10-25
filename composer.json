@@ -1,0 +1,21 @@
+{
+    "name": "tvip/tmsproviderapiphpsdk",
+    "description": "PHP SDK for Tvip TMS Provider API",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Denis Tsyganov",
+            "email": "td@tvip.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ProviderTmsApiSdk\\": "src/"
+        }
+    }
+}
