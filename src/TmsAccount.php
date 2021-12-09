@@ -1,7 +1,9 @@
 <?php
 namespace ProviderTmsApiSdk;
 
-
+/**
+ * @method TmsAccount|null get(int $id)
+ */
 class TmsAccount extends TmsExtendedModel
 {
     protected $path = 'accounts';

@@ -1,9 +1,11 @@
 <?php
 namespace ProviderTmsApiSdk;
-
+/**
+ * @method TmsAccountSubscription|null get(int $id)
+ */
 class TmsAccountSubscription extends TmsExtendedModel
 {
-protected $path = "account_subscriptions";
+    protected $path = "account_subscriptions";
 
     /**
      * @var integer

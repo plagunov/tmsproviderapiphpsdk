@@ -1,6 +1,10 @@
 <?php
 namespace ProviderTmsApiSdk;
 
+
+/**
+ * @method TmsProvider|null get(int $id)
+ */
 class TmsProvider extends TmsBaseModel
 {
     protected $path = 'providers';
