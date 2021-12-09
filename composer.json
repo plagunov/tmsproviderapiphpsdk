@@ -2,7 +2,7 @@
     "name": "tvip/tmsproviderapiphpsdk",
     "description": "PHP SDK for Tvip TMS Provider API",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "authors": [
         {
             "name": "Denis Tsyganov",
