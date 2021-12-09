@@ -3,6 +3,8 @@ namespace ProviderTmsApiSdk;
 
 class TmsDevice extends TmsExtendedModel
 {
+    protected $path = 'devices';
+
     /**
      * @var string
      */
