@@ -3,7 +3,9 @@
 
 namespace ProviderTmsApiSdk;
 
-
+/**
+ * @method TmsRegion|null get(int $id)
+ */
 class TmsRegion extends TmsBaseModel
 {
     protected $path = 'regions';

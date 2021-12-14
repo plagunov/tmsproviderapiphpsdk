@@ -1,6 +1,8 @@
 <?php
 namespace ProviderTmsApiSdk;
-
+/**
+ * @method TmsTarifTag|null get(int $id)
+ */
 class TmsTarifTag extends TmsExtendedModel
 {
     protected $path = 'tarif_tags';

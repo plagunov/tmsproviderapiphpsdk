@@ -1,8 +1,12 @@
 <?php
 namespace ProviderTmsApiSdk;
 
+/**
+ * @method TmsChannel|null get(int $id)
+ */
 class TmsChannel extends TmsBaseModel
 {
+
     protected $path = 'channels';
 
     /**

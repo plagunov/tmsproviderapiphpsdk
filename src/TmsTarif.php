@@ -3,7 +3,9 @@
 
 namespace ProviderTmsApiSdk;
 
-
+/**
+ * @method TmsTarif|null get(int $id)
+ */
 class TmsTarif extends TmsExtendedModel
 {
 

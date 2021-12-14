@@ -1,6 +1,9 @@
 <?php
 namespace ProviderTmsApiSdk;
 
+/**
+ * @method TmsDeviceSubscription|null get(int $id)
+ */
 class TmsDeviceSubscription extends TmsExtendedModel
 {
     protected $path = 'device_subscriptions';
