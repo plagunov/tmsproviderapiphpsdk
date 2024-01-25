@@ -17,5 +17,8 @@
         "psr-4": {
             "ProviderTmsApiSdk\\": "src/"
         }
-    }
+    },
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/plagunov/tmsproviderapiphpsdk.git" }
+    ]
 }
