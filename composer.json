@@ -1,5 +1,5 @@
 {
-    "name": "tvip/tmsproviderapiphpsdk",
+    "name": "plagunov/tmsproviderapiphpsdk",
     "description": "PHP SDK for Tvip TMS Provider API",
     "license": "MIT",
     "version": "1.0.4",
